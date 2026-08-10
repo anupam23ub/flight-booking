@@ -37,7 +37,7 @@ Change credentials and JWT secret before production use.
 Example search:
 GET /api/flights/search?source=DEL&destination=BOM&date=2026-08-17
 
-Example booking:
+Example -  booking:
 POST /api/bookings
 Authorization: Bearer <JWT>
 {
