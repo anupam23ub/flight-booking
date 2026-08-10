@@ -1,0 +1,4 @@
+Project: Navneet Flight Booking Service
+Java package: com.navneet.flightbooking
+Docker: Removed
+Swagger/OpenAPI: Removed
